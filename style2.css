@@ -1,0 +1,28 @@
+body{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #bb7070;
+  }
+  .question{
+    font-weight: 600;
+  }
+  .answers {
+      margin-bottom: 20px;
+  }
+  #submit{
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgb(225, 126, 187);
+    color: #fff;
+    border: 0px;
+    border-radius: 3px;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  #submit:hover{
+    background-color: rgb(225, 144, 192);
+  }
+  #inlineFrameExample {
+    text-align: center;
+  }
